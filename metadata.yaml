@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43847#The-Expositor-s-Bible--The-Book-of-the-Twelve-Prophets-Vol.-ICommonly-Called-the-Minor
 gutenberg_issued: '2013-09-29'
 gutenberg_type: Text
 identifiers:
